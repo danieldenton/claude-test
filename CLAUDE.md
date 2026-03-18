@@ -57,6 +57,8 @@ Three-panel `ResizablePanelGroup`: Chat | Preview (iframe) or Code Editor (FileT
 
 Prisma 6 with SQLite (`prisma/dev.db`). Schema: `User` (id, email, hashed password) and `Project` (name, userId, messages JSON, data JSON for serialized VFS). Projects are deleted on user delete (cascade).
 
+The database schema is defined in `prisma/schema.prisma`. Reference it anytime you need to understand the structure of the data stored in the database.
+
 ### Testing
 
 Tests colocate with source in `__tests__/` subdirectories. Uses Vitest + jsdom + `@testing-library/react`.
