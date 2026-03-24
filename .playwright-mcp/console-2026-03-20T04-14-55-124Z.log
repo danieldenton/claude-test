@@ -1,0 +1,3581 @@
+[     130ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     778ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     869ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1068ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1178ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1181ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[    1326ms] Error: ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./src/app/globals.css:1422:24)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at Object.getCompilationErrors (file:///Users/danieldenton/Desktop/uigen/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:775:59)
+    at DevBundlerService.getCompilationError (file:///Users/danieldenton/Desktop/uigen/node_modules/next/dist/server/lib/dev-bundler-service.js:39:55)
+    at DevServer.getCompilationError (file:///Users/danieldenton/Desktop/uigen/node_modules/next/dist/server/dev/next-dev-server.js:721:42)
+    at DevServer.findPageComponents (file:///Users/danieldenton/Desktop/uigen/node_modules/next/dist/server/dev/next-dev-server.js:691:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/danieldenton/Desktop/uigen/node_modules/next/dist/server/base-server.js:1687:26)
+[    1343ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1432ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[    1448ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1503ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1560ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1616ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1672ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1725ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1783ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1835ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1891ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1949ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2007ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2054ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2109ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2168ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2226ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2283ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2331ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2389ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2446ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2494ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2541ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2592ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2650ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2700ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2760ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2809ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2860ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2916ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2962ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3018ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3067ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3121ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3178ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3240ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3297ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3355ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3414ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3476ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3537ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3589ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3649ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3709ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3768ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3824ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3881ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3937ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3994ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4050ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4101ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4157ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4214ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4269ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4327ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4383ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4439ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4494ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4548ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4604ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4652ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4703ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4752ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4810ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4865ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4924ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4983ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5043ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5104ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5160ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5218ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5277ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5342ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5399ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5456ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5513ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5570ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5626ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5684ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5739ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5800ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5859ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5920ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5980ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6038ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6097ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6156ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6217ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6276ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6334ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6384ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6458ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6517ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6577ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6637ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6695ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6756ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6817ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6876ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6929ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6986ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7041ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7099ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7155ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7213ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7271ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7332ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7387ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7445ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7503ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7561ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7621ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7678ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7737ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7803ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7859ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7916ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7977ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8037ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8096ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8155ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8214ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8273ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8330ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8387ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8436ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8490ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8548ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8604ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8658ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8715ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8772ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8828ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8883ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8935ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    8984ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9035ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9092ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9153ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9207ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9258ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9308ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9367ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9428ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9488ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9545ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9604ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9664ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9723ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9782ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9841ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9895ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9943ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    9997ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10052ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10102ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10226ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10283ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10334ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10389ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10445ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10511ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10566ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10620ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10676ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10732ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10790ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10846ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10903ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   10959ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11016ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11075ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11133ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11191ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11249ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11303ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11358ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11421ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11481ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11538ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11596ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11655ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11715ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11773ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11821ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11880ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11941ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   11998ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12053ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12108ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12165ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12236ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12333ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12411ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12486ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12537ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12585ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12642ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12698ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12756ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12812ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12871ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12934ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   12992ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13051ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13110ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13167ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13222ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13281ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13337ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13393ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13449ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13510ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13566ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13624ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13682ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13741ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[   13799ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747

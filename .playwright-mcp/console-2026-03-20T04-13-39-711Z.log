@@ -1,0 +1,18 @@
+[    9935ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[    9969ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   72262ms] [ERROR] ./src/app/globals.css:1422:24
+Module not found: Can't resolve ''
+  1420 |   .bg-\[url\(\)\] {
+  1421 |     background-image: url();
+> 1422 |   }
+       |    ^
+  1423 |   .from-blue-500 {
+  1424 |     --tw-gradient-from: var(--color-blue-500);
+  1425 |     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
